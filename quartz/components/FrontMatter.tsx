@@ -6,16 +6,17 @@ export default (() => {
       return (
         <div>
           <h2>Front Matter</h2>
-          <pre>{JSON.stringify(fileData.frontmatter, null, 2)}</pre>
+          <ul>
+            {Object.entries(fileData).map(([key, value]) => (
+              <li key={key}>
+                {key}: {value}
+              </li>
+            ))}
+          </ul>
         </div>
       );
     }
    
-    FrontMatter.css = `
-    p.red-text {
-      color: red;
-    }
-    `
    
     return FrontMatter
   }) satisfies QuartzComponentConstructor
