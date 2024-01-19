@@ -2,7 +2,7 @@
 tags: 
 title: Athletic sim testing
 date created: Thursday, January 18th 2024, 2:18:43 pm
-date modified: Friday, January 19th 2024, 8:57:30 am
+date modified: Friday, January 19th 2024, 9:00:17 am
 ---
 - School overview text cuts off on slimmer screens
 - ![[attachments/Pasted image 20240118142058.png]]
@@ -12,3 +12,4 @@ date modified: Friday, January 19th 2024, 8:57:30 am
   - Screen size cuts off text throughout 
   - ![[attachments/Pasted image 20240119084531.png]]
     - I'm not sure what the numbers mean in my office? Are they priority?
+    - I feel like I should be able to click on the numbers to open up their respective tasks since they are the main thing catching my eye. 
