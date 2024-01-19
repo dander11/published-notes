@@ -4,7 +4,7 @@ quickshare-url: "https://noteshare.space/note/clrkprira2351901mwbfp55zkp#M0YQ7di
 tags: 
 title: Athletic sim testing
 date created: Thursday, January 18th 2024, 2:18:43 pm
-date modified: Friday, January 19th 2024, 9:45:40 am
+date modified: Friday, January 19th 2024, 9:52:33 am
 ---
 ## Testing Device Details
 
@@ -42,3 +42,5 @@ General feedback
 - I feel like I should be able to click on the numbers to open up their respective tasks since they are the main thing catching my eye.
 - The second level office I'm in looks **AMAZING**. Love the fish tank and the shifting phone.
 - I think it would be really cool if the tasks that were initiated from different places in the office visualized that they were opened from different place. i.e. maybe tasks that were opened from the phone had an image of someone talking on the phone instead of the same boardroom pic that other tasks have. 
+- In the second round I got positive effects on almost all of my answers and then got fired before I even got through all of my tasks. Idk if that is on purpose but it felt a bit unbalanced in a way that didn't feel the most fun. 
+- After I got fired I could back to my office but not do anything. A game over screen would have been nice to see so that I could restart quickly. 
