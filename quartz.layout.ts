@@ -19,7 +19,7 @@ export const defaultContentPageLayout: FullPageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.FrontMatter(),
+    //Component.FrontMatter(),
     Component.TagList(),
     Component.TableOfContents(),
   ],
