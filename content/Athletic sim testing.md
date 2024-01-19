@@ -15,3 +15,5 @@ date modified: Friday, January 19th 2024, 9:00:17 am
   - ![[attachments/Pasted image 20240119084531.png]]
     - I'm not sure what the numbers mean in my office? Are they priority?
     - I feel like I should be able to click on the numbers to open up their respective tasks since they are the main thing catching my eye. 
+    - Apostrophe is missing on task ![[attachments/Pasted image 20240119091431.png]]
+    - Text longer than 3 lines cannot be seen in the choice options![[attachments/Pasted image 20240119091543.png]]
