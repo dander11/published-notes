@@ -10,7 +10,8 @@ date modified: Friday, January 19th 2024, 9:29:49 am
 
 - **Browser**: Microsoft Edge
 - **Monitor Size**: 3440x1440
-- 
+	- Overall I found these dimensions to work best for then game, if I got far from this I ran into issues.
+	- 2752 wide x 1152 high
 
 ## Content Bugs
 Bugs that have to do with just the text content in the game
@@ -28,6 +29,10 @@ Bugs that have to do with the way something is rendered on my screen.
 - School regions swap when resizing window![[./attachments/msedge_DBCGKx2tfr.gif]]
   - Screen size cuts off text throughout ![[attachments/Pasted image 20240119084531.png]]
   - Text longer than 3 lines cannot be seen in the choice options![[attachments/Pasted image 20240119091543.png]]
+
+## Gameplay Bugs
+
+- You can click on the settings icon multiple times to open it repeatedly ![[attachments/msedge_VGF0Y35wgp.gif]]
 ## Gameplay Feedback
 General feedback
 
