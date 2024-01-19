@@ -1,4 +1,6 @@
 ---
+quickshare-date: 2024-01-19 09:06:06
+quickshare-url: "https://noteshare.space/note/clrkprira2351901mwbfp55zkp#M0YQ7di4funLwNcPZ+FM4rFrQVyLrIfiCD1Y0UyRMIM"
 tags: 
 title: Athletic sim testing
 date created: Thursday, January 18th 2024, 2:18:43 pm
