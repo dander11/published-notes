@@ -4,7 +4,7 @@ quickshare-url: "https://noteshare.space/note/clrkprira2351901mwbfp55zkp#M0YQ7di
 tags: 
 title: Athletic sim testing
 date created: Thursday, January 18th 2024, 2:18:43 pm
-date modified: Friday, January 19th 2024, 9:29:49 am
+date modified: Friday, January 19th 2024, 9:45:40 am
 ---
 ## Testing Device Details
 
@@ -40,3 +40,5 @@ General feedback
 - I'm not sure what the numbers mean in my office? Are they priority?
 	- Just realized that they are counters for how many tasks are left. 
 - I feel like I should be able to click on the numbers to open up their respective tasks since they are the main thing catching my eye.
+- The second level office I'm in looks **AMAZING**. Love the fish tank and the shifting phone.
+- I think it would be really cool if the tasks that were initiated from different places in the office visualized that they were opened from different place. i.e. maybe tasks that were opened from the phone had an image of someone talking on the phone instead of the same boardroom pic that other tasks have. 
