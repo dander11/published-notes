@@ -6,7 +6,12 @@ date modified: Thursday, January 18th 2024, 9:48:59 pm
 ---
 
 - Pizza 
+	- 5 Cheese
+	- 5 Pepperoni
+	- 7 Grandma
+	- 3 Veggie
 - Pretzels 
+- Pocky
 - Cheese
 	- Publix cheese section
 - Donuts 72
