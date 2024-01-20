@@ -26,6 +26,7 @@ date modified: Thursday, January 18th 2024, 9:48:59 pm
 - Drinks
 	- Drink tub from Target?
 	- Ice
+	- Costco
 - Fruit Platter (2)
 	- Self made by Haleigh
 	- Or bought at Publix
