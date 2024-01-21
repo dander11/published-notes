@@ -8,4 +8,4 @@ date modified: Wednesday, January 17th 2024, 9:07:03 pm
 ---
 # Home
 
-Go look at the #recipe in the folder for good recipes. Hey Haleigh how are you?
+Go look at the #Recipes in the folder for good recipes. Hey Haleigh how are you?

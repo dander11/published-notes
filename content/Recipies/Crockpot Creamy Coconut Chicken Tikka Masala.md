@@ -49,4 +49,4 @@ Author::Tieghan Gerard
 4. Serve the chicken and sauce over bowls of rice with fresh naan. Enjoy!
 
 
-#recipe
+#Recipes

@@ -72,4 +72,4 @@ Transfer the turkey to a [rack set in a rimmed baking sheet](https://www.seriou
 Dry-brining for more than 24 hours will produce even juicier and better-seasoned meat. To brine longer than 24 hours, loosely cover turkey with plastic wrap or cheesecloth before refrigerating, to prevent excess moisture loss through evaporation. Let rest for up to three days.
 
 Author:: J. Kenji López-Alt
-#recipe
+#Recipes

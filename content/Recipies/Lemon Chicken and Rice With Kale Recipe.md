@@ -27,4 +27,4 @@ Serves::4 servings
 2. Turn the heat down to medium and add the shallots, stirring so they don’t burn, until just softened, about 30 seconds. Add the cumin, lemon zest, and saffron, and stir until fragrant, another 30 seconds. Stir in the kale, then add the broth and rice and stir together. Lay the chicken carefully on top and adjust the heat to maintain a gentle simmer, then cover and cook until the chicken and rice are done, 15 to 20 minutes. Sprinkle with the lemon juice and serve.
 
 
-#recipe
+#Recipes

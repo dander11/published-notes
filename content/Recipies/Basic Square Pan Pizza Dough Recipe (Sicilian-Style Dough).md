@@ -39,4 +39,4 @@ Makes 1 pie
 - [The Food Lab: 11 Essential Tips for Better Pizza](https://www.seriouseats.com/essential-tips-for-better-pizza-how-to-make-pizza-at-home)
 
 
-#recipe
+#Recipes

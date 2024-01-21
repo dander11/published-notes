@@ -36,4 +36,4 @@ For extra-moist and crisp stuffing, break out the slow cooker.
     ![Mixing bread crumbs into sausage mixture](https://www.seriouseats.com/thmb/e6dSawmrpFpGlX-lR28IwpXqc6g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20221107-slow-cooker-sage-sausage-stuffing-FredHardy-02-85a961ee2a4943e495fa58067fd623dc.JPG)
 4. Grease the inside of a slow cooker with butter. Transfer stuffing to slow cooker and set to low heat. Cook for 5 hours. Keep warm or sprinkle with remaining parsley to serve.
 
-#recipe
+#Recipes

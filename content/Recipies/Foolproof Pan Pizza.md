@@ -61,4 +61,4 @@ A pan pizza recipe for those who love a thick and crispy crust that's golden on 
 
 Although mozzarella is standard, any good melting cheese, such as cheddar, Jack, or young provolone, will work for this recipe. This recipe is intended to be made with dry (aged) mozzarella cheese, the yellowish variety that comes in firm blocks. Do not use fresh mozzarella, as it is too moist. If you want to bake only one pizza at a time, you can transfer one ball of dough to a sealed zipper-lock bag or container in step 3 and store it in the refrigerator for up to three days. Continue with step 4 when ready to bake.
 
-#recipe
+#Recipes
