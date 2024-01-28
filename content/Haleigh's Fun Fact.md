@@ -2,9 +2,9 @@
 tags: 
 title: "Haleigh's Fun Fact"
 auto_date_created: Saturday, January 27th 2024, 8:32:47 pm
-auto_date_modified: Saturday, January 27th 2024, 8:53:31 pm
+auto_date_modified: Saturday, January 27th 2024, 8:57:53 pm
 ---
-## My Fun Fact is that in 2008 My Brothers and I Jumped over My Youngest Brother on a 4-wheeler, and My Mom Didn't Find out until We Posted the Video on Facebook.
+## My Fun Fact is that in 2008 I Recorded My Brother Beau Jumping over My Youngest Brother Logan on a 4-wheeler, and My Mom Didn't Find out until We Posted the Video on Facebook.
 
 So in 2008 we were living in Carrollton and when my mom was gone we were forbidden from riding the 4-wheelers around the house. So while my mom was gone my brothers and I would play by driving around the house on 4-wheelers. One day it turned into us building ramps to jump, which turned into us building bigger ramps to jump, which of naturally turned into us wondering what kind of things we could  jump over....
 
