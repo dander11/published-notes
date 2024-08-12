@@ -5,8 +5,8 @@ title: Home
 linter-yaml-title-alias: Home
 date created: Tuesday, January 16th 2024, 9:29:05 pm
 date modified: Sunday, January 21st 2024, 10:48:50 am
-auto_date_created: Monday, January 15th 2024, 11:31:51 am
-auto_date_modified: Monday, August 12th 2024, 10:50:39 am
+auto_date_created: 2024-01-15T11:31:51-05:00
+auto_date_modified: 2024-08-12T11:15:23-04:00
 ---
 # Home
 

@@ -3,8 +3,8 @@ tags:
 title: Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey With Gravy
 date created: Monday, November 20th 2023, 8:46:24 am
 date modified: Tuesday, January 16th 2024, 1:53:27 pm
-auto_date_created: Monday, November 20th 2023, 8:46:24 am
-auto_date_modified: Monday, August 12th 2024, 10:50:39 am
+auto_date_created: 2023-11-20T08:46:24-05:00
+auto_date_modified: 2024-08-12T11:15:23-04:00
 ---
 Prep Time:: 15 mins
 Cook Time::105 mins

@@ -5,8 +5,8 @@ tags:
 title: Athletic sim testing
 date created: Thursday, January 18th 2024, 2:18:43 pm
 date modified: Friday, January 19th 2024, 9:52:33 am
-auto_date_created: Thursday, January 18th 2024, 2:18:43 pm
-auto_date_modified: Monday, August 12th 2024, 10:50:39 am
+auto_date_created: 2024-01-18T14:18:43-05:00
+auto_date_modified: 2024-08-12T11:15:23-04:00
 ---
 ## Testing Device Details
 

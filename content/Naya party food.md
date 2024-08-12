@@ -3,8 +3,8 @@ tags:
 title: Naya party food
 date created: Thursday, January 18th 2024, 9:36:41 pm
 date modified: Thursday, January 18th 2024, 9:48:59 pm
-auto_date_created: Friday, January 19th 2024, 8:46:51 am
-auto_date_modified: Monday, August 12th 2024, 10:50:39 am
+auto_date_created: 2024-01-19T08:46:51-05:00
+auto_date_modified: 2024-08-12T11:15:23-04:00
 ---
 
 - Pizza 
