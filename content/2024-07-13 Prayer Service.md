@@ -2,7 +2,7 @@
 tags: 
 title: 2024-07-13 Prayer Service
 auto_date_created: Saturday, July 13th 2024, 9:10:12 pm
-auto_date_modified: Saturday, July 13th 2024, 9:37:52 pm
+auto_date_modified: Monday, August 12th 2024, 10:50:39 am
 ---
 ## Topic Confession
 

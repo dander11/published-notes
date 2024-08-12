@@ -1,6 +1,8 @@
 ---
 tags: 
 title: Lemon Chicken and Rice With Kale Recipe
+auto_date_created: Monday, January 15th 2024, 10:24:22 am
+auto_date_modified: Monday, August 12th 2024, 10:50:39 am
 ---
 
 

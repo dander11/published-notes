@@ -2,6 +2,8 @@
 tags: 
 title: Basic Square Pan Pizza Dough Recipe (Sicilian-Style Dough)
 Author: J. Kenji López-Alt
+auto_date_created: Monday, January 15th 2024, 2:32:02 pm
+auto_date_modified: Monday, August 12th 2024, 10:50:39 am
 ---
 Prep Time::15 mins
 Cook Time::25 mins

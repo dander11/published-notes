@@ -2,6 +2,8 @@
 tags: 
 Author: J. Kenji López-Alt
 title: Foolproof Pan Pizza
+auto_date_created: Monday, January 15th 2024, 2:34:30 pm
+auto_date_modified: Monday, August 12th 2024, 10:50:39 am
 ---
 
 Prep Time::25 mins
