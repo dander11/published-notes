@@ -2,7 +2,7 @@
 tags: 
 title: Naomi Overview
 auto_date_created: 2025-05-24T17:14:24-04:00
-auto_date_modified: 2025-05-24T21:06:27-04:00
+auto_date_modified: 2025-05-24T21:10:27-04:00
 ---
 
 
@@ -31,6 +31,9 @@ auto_date_modified: 2025-05-24T21:06:27-04:00
 - Even if she fights getting ready, once her shoes and socks are on she’s usually happier.
 - If she fights it really hard, we don't care that she changes her clothes that much. Just need to make sure she's not in a diaper.
 
+
+---
+
 ### Food Options
 
 Feel free to ask her what she wants from these options, she will probably tell you. :) 
@@ -51,6 +54,8 @@ Feel free to ask her what she wants from these options, she will probably tell y
 - Pasta
 - Mac and Cheese
 - Grilled Cheese
+
+---
 
 ### Places to Go:
 
@@ -106,6 +111,9 @@ Feel free to ask her what she wants from these options, she will probably tell y
 	- Moana
 	- Encanto
 	- Wheels on the Bus ("All Through the Town")
+
+
+---
 
 ### Bedtime Routine
 
