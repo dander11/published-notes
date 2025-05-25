@@ -2,23 +2,23 @@
 tags: 
 title: Naomi Overview
 auto_date_created: 2025-05-24T17:14:24-04:00
-auto_date_modified: 2025-05-24T18:09:31-04:00
+auto_date_modified: 2025-05-24T21:06:27-04:00
 ---
 
 
 ## Daily Schedule
 
-| Time           | Activity                                      | Notes                                                 |
-| -------------- | --------------------------------------------- | ----------------------------------------------------- |
-| 7:40 am        | Wake up - Bedroom Light/Sound machine changes | May wake up earlier and that's fine. You can go on in |
-| 8:00 am        | Breakfast                                     |                                                       |
-| 8:15-30        | Getting ready                                 |                                                       |
-| 10:00/10:30 am | Snack                                         |                                                       |
-| 12:00 pm       | Lunch                                         |                                                       |
-| 12:30 pm       | Nap (usually 2.5 - 3 hrs)                     | - Needs a Diaper<br>- Gets a few Pacis ("Babas")      |
-| 2:30/3:30 pm   | Wake up, usually wants snack                  | - Change back into underwear                          |
-| 6:00 pm        | Dinner                                        |                                                       |
-| 7:30/8:00 pm   | Bedtime                                       |                                                       |
+| Time           | Activity                                      | Notes                                                     |
+| -------------- | --------------------------------------------- | --------------------------------------------------------- |
+| 7:40 am        | Wake up - Bedroom Light/Sound machine changes | May wake up closer to 7 and that's fine. You can go on in |
+| 8:00 am        | Breakfast                                     |                                                           |
+| 8:15-30        | Getting ready                                 |                                                           |
+| 9:30/10:00 am  | Snack                                         |                                                           |
+| 11:30-12:00 pm | Lunch                                         |                                                           |
+| 12:15-12:30 pm | Go down for Nap (usually 2.5 - 3 hrs)         | - Needs a Diaper<br>- Gets a few Pacis ("Babas")          |
+| 2:30/3:30 pm   | Wake up, usually wants snack                  | - Change back into underwear                              |
+| 6:00 pm        | Dinner                                        |                                                           |
+| 7:30/8:00 pm   | Bedtime                                       |                                                           |
 
 ### Tips for Getting Ready:
 - We often offer her two sets of underwear and she can pick which one. I’ve laid out 2 with her outfit already. 
@@ -33,6 +33,7 @@ auto_date_modified: 2025-05-24T18:09:31-04:00
 
 ### Food Options
 
+Feel free to ask her what she wants from these options, she will probably tell you. :) 
 #### Breakfast
 - Two Eggs, Yogurt, and Berries
 - Oatmeal, Berries, Banana
@@ -56,7 +57,7 @@ auto_date_modified: 2025-05-24T18:09:31-04:00
 - Tree Story Coffee Shop: 
 	- 2550 Pleasant Hill Rd #415, Duluth, GA 30096 (Right down the street)
 	- She likes getting a "Donut" which is their Cinnamon twists
-- Shorty Howl Park
+- Shorty Howell Park
 	- Playground near the lake where she loves to play
 - Bunton Road Park
 	- Wonderful playground for her that is very age appropriate
@@ -104,7 +105,7 @@ auto_date_modified: 2025-05-24T18:09:31-04:00
 	- Frozen
 	- Moana
 	- Encanto
-	- Wheels on the Bus ("All Through the town")
+	- Wheels on the Bus ("All Through the Town")
 
 ### Bedtime Routine
 
