@@ -2,7 +2,7 @@
 tags: 
 title: Naomi Overview
 auto_date_created: 2025-05-24T17:14:24-04:00
-auto_date_modified: 2025-05-24T21:11:49-04:00
+auto_date_modified: 2025-12-07T22:20:50-05:00
 ---
 
 
@@ -101,7 +101,7 @@ Feel free to ask her what she wants from these options, she will probably tell y
 - Otherwise she can pick out her own books to read
 
 ##### Music
-- She has lots of Yoto cards for her Yoto Player ("Radio") that she can manage herself
+- She has lots of Yoto cards for her Yoto Player ("Music Player") that she can manage herself
 - Music she loves:
 	- Rain for Roots
 	- Elle Holcomb
@@ -117,7 +117,6 @@ Feel free to ask her what she wants from these options, she will probably tell y
 
 ### Bedtime Routine
 
-- Put on Changing Table and give her a Paci (or four :) )
 - Put on Diaper
 - Put on PJs
 	- Top Drawer of her dresser
